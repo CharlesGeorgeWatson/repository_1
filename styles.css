@@ -1,6 +1,9 @@
 body {
-    background-color: cadetblue;
+    background-color:plum;
 }
 li{
     background-color:bisque;
+}
+footer{
+    background-color:seagreen;
 }
